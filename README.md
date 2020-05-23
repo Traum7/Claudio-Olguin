@@ -1,2 +1,2 @@
-# Claudio-Olguin
-Diseñador Grafipo
+# OnceDesign
+Diseño Gráfico
